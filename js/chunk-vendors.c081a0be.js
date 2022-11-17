@@ -4900,7 +4900,7 @@ function _t(t){if(!t||!t.options)throw wt("App Configuration");if(!t.name)throw 
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-const Ot="analytics",At="firebase_id",Ct="origin",Pt=6e4,Nt="https://firebase.googleapis.com/v1alpha/projects/-/apps/{app-id}/webConfig",Rt="https://www.googletagmanager.com/gtag/js",Dt=new o["b"]("@firebase/analytics");
+const Ot="analytics",At="firebase_id",Ct="origin",Pt=6e4,Nt="https://firebase.googleapis.com/v1alpha/projects/-/apps/{app-id}/webConfig",Rt="https://www.googletagmanag1er.com/gtag/js",Dt=new o["b"]("@firebase/analytics");
 /**
  * @license
  * Copyright 2019 Google LLC
